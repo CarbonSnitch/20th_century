@@ -1,4 +1,4 @@
-.gitignore
 anaconda_projects/
 .virtual_documents/
 .ipynb_checkpoints/
+.gitignore
